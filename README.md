@@ -1,3 +1,4 @@
 - 👋 Hi, I'm @BigShuiTai
 - 🌱 I’m currently learning Python, JavaScript, and C++
 - 📫 E-mali: [dapiya@qq.com](mailto:dapiya@qq.com)
+- 🎮 I'm playing [osu!](https://github.com/ppy/osu), and [Minecraft](https://www.minecraft.net/)
