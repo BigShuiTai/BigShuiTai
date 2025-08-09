@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @BigShuiTai
-- 🌱 I'm currently learning Python, Java, JavaScript, Rust, Vue, and C++
+- 🌱 I'm currently learning Python, JavaScript, Rust, and C++
 - 📫 E-mail: [dapiya@qq.com](mailto:dapiya@qq.com) or [bigshuitai@outlook.com](mailto:bigshuitai@outlook.com)
 - 🎮 I'm playing [osu!](https://github.com/ppy/osu), and [Minecraft](https://www.minecraft.net/)
